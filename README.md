@@ -1,2 +1,2 @@
 # leonardo-poo
-repositorio da materia de poo.
+repositorio da materia de programação orientada a objetos.
